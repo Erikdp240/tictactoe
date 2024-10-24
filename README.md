@@ -9,9 +9,11 @@ The program accepts 3 command line argument: *python proj1.py ALGORITHM FIRST MO
 ALGORITHM - specifies which algorithm the computer player will use
   * 1 - MiniMax
   * 2 - MiniMax with alpha-beta pruning
+
 FIRST - specifies who begins the game
   * X
   * O
+
 MODE - specifies the mode in which your program should operate
   * 1 - Human (X) vs. Computer (O)
   * 2 - Computer (X) vs. Computer (O)
