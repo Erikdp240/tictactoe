@@ -4,8 +4,7 @@
 The main objective of this assignment: Implement MiniMax adversarial search algorithm in Python
 
 ## Problem input and command-line interface
-The program accepts 3 command line argument
-  * python proj1.py ALGORITHM FIRST MDOE *
+The program accepts 3 command line argument: *python proj1.py ALGORITHM FIRST MDOE*
 
 ALGORITHM - specifies which algorithm the computer player will use
   * 1 - MiniMax
